@@ -1,0 +1,1 @@
+Performed exploratory data analysis on a heart disease dataset, utilizing distribution plots, pie charts, and violin plots to identify key trends. Additionally, I analyzed correlations using heatmaps and joint plots to uncover relationships between variables, and I visualized multidimensional data relationships through pair plots to gain deeper insights into the dataset.
